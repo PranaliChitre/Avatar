@@ -1,5 +1,5 @@
 # Avatar
-#Tools Used:
+Tools Used:
 1.Stable Diffusion (Image Generation):
 Purpose: To generate high-quality, AI-driven images based on text prompts.
 Details: Stable Diffusion is an open-source deep learning model designed to produce detailed and realistic images. It was utilized to create the initial visual content for the project.
@@ -16,7 +16,7 @@ Details: Eleven Labs offers advanced AI-driven text-to-speech technology, produc
 Purpose: To synchronize lip movements in video with the generated speech.
 Details: Wav2Lip is an open-source tool that precisely aligns lip movements with audio input, ensuring that the speech and visual elements in the video are perfectly synchronized.
 
-#Process Followed:
+Process Followed:
 1.Wav2Lip Setup:
 Installation: Began by installing the necessary dependencies and cloning the Wav2Lip repository.
 Model Downloads: Downloaded the pretrained Wav2Lip model (wav2lip_gan.pth) and the face detection model (s3fd.pth).
